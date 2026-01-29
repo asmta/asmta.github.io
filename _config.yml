@@ -36,10 +36,6 @@ github_username:  jekyll
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-logo:
-  image: "assets/img/asmta_logo_simple.png"
-  link: "https://asmta.github.io" # Optional: clickable logo
   
 # Exclude from processing.
 # The following items will not be processed, by default.
