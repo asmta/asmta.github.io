@@ -3,6 +3,8 @@ title: ASMTA
 layout: index
 ---
 
+**ASMTA 2026: The 29th International Conference on Analytical and Stochastic Modelling Techniques and Applications**
+
 Methods of analytical and stochastic modelling are widely used in
 engineering to assess and design various complex systems, like
 computer and communication networks, and manufacturing systems. The
