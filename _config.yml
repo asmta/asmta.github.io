@@ -21,7 +21,7 @@
 title: ASMTA 2026
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  International Conference on Analytical and 
+  The 29th International Conference on Analytical and 
   Stochastic Modelling Techniques and Applications </br>
   Ghent, Belgium, 5 November 2026
 baseurl: "" # the subpath of your site, e.g. /blog
