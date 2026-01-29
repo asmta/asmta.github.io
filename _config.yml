@@ -20,7 +20,7 @@
 
 title: ASMTA 2026
 logo:
-  image: "assets/images/asmta_logo_simple.svg"
+  image: "assets/img/asmta_logo_simple.svg"
   link: "https://asmta.github.io" # Optional: clickable logo
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
