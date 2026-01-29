@@ -2,6 +2,7 @@
 title: Previous editions
 navorder: 5
 layout: page
+permalink: /previous_editions/
 ---
 
 Most recent previous editions:
