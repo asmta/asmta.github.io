@@ -17,7 +17,7 @@ Information on the venue as well as on registration can be found there.
 
 **Important Dates**
 
-- Paper submission deadline: ...
+- Paper submission deadline: To be announced
 - Notification of acceptance: ...
 
 **TPC chairs**
