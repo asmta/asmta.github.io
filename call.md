@@ -18,13 +18,15 @@ This year, the conference will be held as a workshop within
 
 **Important Dates**
 
-- Paper submission deadline: ...
-- Notification of acceptance: ...
+- Paper submission deadline: to be announced
+- Notification of acceptance: pending
 
 
 **Organisation**
 
-- TPC Chairs: ...
+- TPC Chairs:
+  Illés Horváth Budapest University of Technology and Economics
+  Vincenzo Mancuso, University of Palermo & IMDEA Networks Institute
 
 
 **Scope and Topics**
@@ -75,9 +77,9 @@ and Quality of Service
 
 **Submission**
 
-Submissions will be on ....
+Submissions will be on Microsoft CMT at ... 
 
-<!--The proceedings of ASMTA 2024 will be published in Springer
+<!--The proceedings of ASMTA 2026 will be published in Springer
 Lecture Notes in Computer Science (LNCS) series. Submissions may
 already be prepared in LNCS format and must not exceed 15 pages,
 including figures, tables, and references; see the information for
