@@ -22,6 +22,6 @@ Information on the venue as well as on registration can be found there.
 
 **TPC chairs**
 
-- Illés Horvath
+- Illés Horváth
 - Vincenzo Mancuso
 
