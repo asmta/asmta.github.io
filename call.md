@@ -77,7 +77,12 @@ and Quality of Service
 
 **Submission**
 
-Submissions will be on Microsoft CMT at ... 
+Submissions will be on Microsoft CMT at [TBA]  
+
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+
+
+
 
 <!--The proceedings of ASMTA 2026 will be published in Springer
 Lecture Notes in Computer Science (LNCS) series. Submissions may
