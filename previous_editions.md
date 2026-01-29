@@ -1,3 +1,9 @@
+---
+title: Previous editions
+navorder: 5
+layout: page
+---
+
 Most recent previous editions:
 
 2024: The 28th International Conference on Analytical & Stochastic Modelling Techniques & Applications
