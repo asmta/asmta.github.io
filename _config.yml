@@ -20,7 +20,7 @@
 
 title: ASMTA 2026
 logo: /assets/img/logo3.svg
-logo_alt: ASMTA 2026 logo
+#logo_alt: ASMTA 2026 logo
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The 29th International Conference on Analytical and 
