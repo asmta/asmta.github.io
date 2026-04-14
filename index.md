@@ -17,8 +17,8 @@ Information on the venue as well as on registration can be found there.
 
 **Important Dates**
 
-- Paper submission deadline: TBA
-- Notification of acceptance: TBA
+- Paper submission deadline: July 24, 2026
+- Notification of acceptance: September 11, 2026
 
 **TPC chairs**
 
