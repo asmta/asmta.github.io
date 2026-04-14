@@ -7,11 +7,12 @@ permalink: /organisation/
 
 **TPC Chairs**
 
-- Illés Horvath
-- Vincenzo Mancuso 
+- Illés Horvath, Budapest University of Technology and Economics, Hungary
+- Vincenzo Mancuso, University of Palermo, Italy & IMDEA Networks Institute, Madrid, Spain
 
-**Technical programme committee**
+**Technical programme committee** *(accepted)*
 
-- Person 1
-- Person 2
+- András Horváth, University of Turin, Italy
+- Diletta Olliaro, KTH, Sweden
+- Sabina Rossi, University of Venice Ca' Foscari, Italy
 - ...
