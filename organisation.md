@@ -14,5 +14,7 @@ permalink: /organisation/
 
 - András Horváth, University of Turin, Italy
 - Diletta Olliaro, KTH, Sweden
+- Gianluca Rizzo, HES-SO Valais, Switzerland & University of Turin, Italy
 - Sabina Rossi, University of Venice Ca' Foscari, Italy
+- Matteo Sereno, University of Turin, Italy
 - ...
