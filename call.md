@@ -24,7 +24,7 @@ This year, the conference will be held as a workshop within
 
 **Organisation**
 
-TPC Chairs:  
+*TPC Chairs:*  
   - Illés Horváth Budapest University of Technology and Economics, Hungary 
   - Vincenzo Mancuso, University of Palermo, Italy & IMDEA Networks Institute, Madrid, Spain
 
