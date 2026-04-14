@@ -23,7 +23,7 @@ Information on the venue as well as on registration can be found there.
 **TPC chairs**
 
 - Illés Horváth, Budapest University of Technology and Economics, Hungary
-- Vincenzo Mancuso, University of Palermo, Italy, and IMDEA Networks Institute, Madrid, Spain
+- Vincenzo Mancuso, University of Palermo, Italy & IMDEA Networks Institute, Madrid, Spain
 
 
 
