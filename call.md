@@ -18,15 +18,15 @@ This year, the conference will be held as a workshop within
 
 **Important Dates**
 
-- Paper submission deadline: to be announced
-- Notification of acceptance: pending
+- Paper submission deadline: July 24, 2026
+- Notification of acceptance: September 11, 2026
 
 
 **Organisation**
 
 - TPC Chairs:  
-  Illés Horváth Budapest University of Technology and Economics  
-  Vincenzo Mancuso, University of Palermo & IMDEA Networks Institute  
+  Illés Horváth Budapest University of Technology and Economics, Hungary 
+  Vincenzo Mancuso, University of Palermo, Italy & IMDEA Networks Institute, Madrid, Spain
 
 
 **Scope and Topics**
