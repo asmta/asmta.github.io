@@ -12,6 +12,7 @@ permalink: /organisation/
 
 **Technical programme committee** *(accepted)*
 
+- Antonio Bazco-Nogueras, IMDEA Networks Institute, Spain
 - András Horváth, University of Turin, Italy
 - Diletta Olliaro, KTH, Sweden
 - Gianluca Rizzo, HES-SO Valais, Switzerland & University of Turin, Italy
