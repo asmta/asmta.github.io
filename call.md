@@ -18,9 +18,10 @@ This year, the conference will be held as a workshop within
 Paper Submission Deadline: July 24, 2026
 Notification of acceptance: September 11, 2026
 
-ASMTA 2026 seeks both methodological papers that propose novel analytical and numerical solution techniques for stochastic systems, as well as application-oriented papers that apply stochastic modelling techniques to practical performance problems. The website for ASMTA 2026 will be at [https://asmta.eu/](https://asmta.github.io). Submissions will be on Microsoft CMT at [https://cmt3.research.microsoft.com/ASMTA2026](https://cmt3.research.microsoft.com/ASMTA2026)
+ASMTA 2026 seeks both methodological papers that propose novel analytical and numerical solution techniques for stochastic systems, as well as application-oriented papers that apply stochastic modelling techniques to practical performance problems. 
+The website for ASMTA 2026 will be at [https://asmta.eu/](https://asmta.github.io). Submissions will be on Microsoft CMT at [https://cmt3.research.microsoft.com/ASMTA2026](https://cmt3.research.microsoft.com/ASMTA2026)
 
-The proceedings of ASMTA 2024 will be published in the Springer Lecture Notes in Computer Science (LNCS) series. Submissions may already be prepared in LNCS format and must not exceed 15 pages, including figures, tables, and references; see the information for authors on Springer as web site for formatting instructions (Springer).
+The proceedings of ASMTA 2026 will be published in the Springer Lecture Notes in Computer Science (LNCS) series. Submissions may already be prepared in LNCS format and must not exceed 15 pages, including figures, tables, and references; see the information for authors on Springer as web site for formatting instructions (Springer).
 
 
 **Important Dates**
