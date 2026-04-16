@@ -13,6 +13,7 @@ ASMTA 2026 seeks both methodological papers that propose novel analytical and nu
 The website for ASMTA 2026 will be at [https://asmta.github.io](https://asmta.github.io). Submissions will be on Microsoft CMT at [https://cmt3.research.microsoft.com/ASMTA2026](https://cmt3.research.microsoft.com/ASMTA2026)
 
 
+<br>
 
 <p align="center">
   <img src="assets/img/LNCS-Logo.png" alt="LNCS logo" width="400">
