@@ -4,13 +4,7 @@ navorder: 1
 layout: page
 ---
 
-Methods of analytical and stochastic modelling are widely used in
-engineering to assess and design various complex systems, like
-computer and communication networks, and manufacturing systems. The
-ASMTA conference is a main forum for advancing these techniques and
-their applications and aims to bring together researchers of academia
-and industry to discuss the latest developments in analytical,
-numerical and simulation algorithms for stochastic systems.
+Methods of analytical and stochastic modelling are widely used in engineering to assess and design various complex systems, like computer and communication networks, and manufacturing systems. The ASMTA conference is a main forum for advancing these techniques and their applications and aims to bring together researchers of academia and industry to discuss the latest developments in analytical, numerical and simulation algorithms for stochastic systems.
 
 This year, the conference will be held as a workshop within
 [IFIP WG 7.3 Performance 2026](https://performance2026.github.io) in Ghent, Belgium.
@@ -36,11 +30,7 @@ The proceedings of ASMTA 2026 will be published in the Springer Lecture Notes in
 
 **Scope and Topics**
 
-ASMTA 2026 seeks both methodological papers that propose novel
-analytical and numerical solution techniques for stochastic systems,
-as well as application-oriented papers that apply stochastic
-modelling techniques to practical performance problems. Topics of interest include
-the following.
+ASMTA 2026 seeks both methodological papers that propose novel analytical and numerical solution techniques for stochastic systems, as well as application-oriented papers that apply stochastic modelling techniques to practical performance problems. Topics of interest include the following.
 
 *Performance-Oriented Methodologies:*
 - Markov Processes
@@ -82,17 +72,12 @@ and Quality of Service
 
 **Submission**
 
-Submissions will be on Microsoft CMT at [TBA]  
+Submissions will be on Microsoft CMT at [https://cmt3.research.microsoft.com/ASMTA2026](https://cmt3.research.microsoft.com/ASMTA2026) 
 
 The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 
 
 
 
-<!--The proceedings of ASMTA 2026 will be published in Springer
-Lecture Notes in Computer Science (LNCS) series. Submissions may
-already be prepared in LNCS format and must not exceed 15 pages,
-including figures, tables, and references; see the information for
-authors on Springer as web site for formatting instructions:
--->
+<!--The proceedings of ASMTA 2026 will be published in Springer Lecture Notes in Computer Science (LNCS) series. Submissions may already be prepared in LNCS format and must not exceed 15 pages, including figures, tables, and references; see the information for authors on Springer as web site for formatting instructions:-->
 
