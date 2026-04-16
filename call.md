@@ -15,9 +15,6 @@ numerical and simulation algorithms for stochastic systems.
 This year, the conference will be held as a workshop within
 [IFIP WG 7.3 Performance 2026](https://performance2026.github.io) in Ghent, Belgium.
 
-Paper Submission Deadline: July 24, 2026
-Notification of acceptance: September 11, 2026
-
 ASMTA 2026 seeks both methodological papers that propose novel analytical and numerical solution techniques for stochastic systems, as well as application-oriented papers that apply stochastic modelling techniques to practical performance problems. 
 The website for ASMTA 2026 will be at [https://asmta.github.io](https://asmta.github.io). Submissions will be on Microsoft CMT at [https://cmt3.research.microsoft.com/ASMTA2026](https://cmt3.research.microsoft.com/ASMTA2026)
 
