@@ -23,10 +23,10 @@ permalink: /organisation/
 - Andras Horvath, University of Turin, Italy
 - Marco Gribaudo, Politecnico di Milano, Italy
 - Yezekael Hayel, LIA University of Avignon, France
-- D\'aniel Keliger, Budapest University of Technology and Economics, Hungary
+- Dániel Keliger, Budapest University of Technology and Economics, Hungary
 - Lasse Leskelä, Aalto University, Finland
 - Martin Lopez Garcia, University of Leeds, UK
-- Andr\'as M\'esz\'aros, Budapest University of Technology and Economics, Hungary
+- András Mészáros, Budapest University of Technology and Economics, Hungary
 - Jose Nino-Mora, Carlos III University of Madrid, Spain
 - Diletta Olliaro, KTH, Sweden
 - Juan F. Perez, Universidad de los Andes, Colombia
@@ -37,6 +37,6 @@ permalink: /organisation/
 - Gianluca Rizzo, HES-SO Valais, Switzerland, \& University of Turin, Italy
 - Sabina Rossi, University Ca’ Foscari, Venice, Italy
 - Matteo Sereno, University of Turin, Italy
-- Mikl\'os Telek, Budapest University of Technology and Economics, Hungary
+- Miklós Telek, Budapest University of Technology and Economics, Hungary
 - Joris Walraevens, Ghent University, Belgium
 - Jinting Wang, Central University of Finance and Economics, China
