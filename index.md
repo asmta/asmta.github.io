@@ -17,7 +17,7 @@ Information on the venue as well as on registration can be found there.
 
 **Important Dates**
 
-- Paper submission deadline: July 24, 2026
+- Paper submission deadline: August 28, 2026 (Extended, FIRM)
 - Notification of acceptance: September 11, 2026
 
 **TPC chairs**
