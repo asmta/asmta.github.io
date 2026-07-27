@@ -37,8 +37,8 @@ A selection of the best papers will be invited to submit a fast-tracked extended
 **Important Dates**
 
 - Paper submission deadline: **August 28, 2026 (Extended, FIRM)**
-- Notification of acceptance: September 11, 2026
-
+- Notification of acceptance: **September 16, 2026**
+- Camera ready due: **September 23, 2026**
 
 **Organisation**
 
