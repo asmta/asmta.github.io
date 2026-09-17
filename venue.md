@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Venue
+layout: page
 navorder: 5
 permalink: /venue/
 ---
