@@ -18,7 +18,7 @@ vincenzo.mancuso@networks.imdea.org by Friday October 2nd, 2026.
   
   Please follow Section "10 Checklist of Items to Be Sent to Your Conference Contact" 
   (read the Publisher's_Code_of_Conduct_for_Book_Authors.pdf which is available in the following link: https://www.dropbox.com/scl/fi/jnko0atwqqz8ds1xsp6gx/Publisher-s_Code_of_Conduct_for_Book_Authors.pdf?rlkey=zoz8u5uub3jf4p9kosbxz2q1y&st=qw7l0wef&dl=0) 
-  and use the pre-filled license-to-publish agreement LNCS_LicenceToPublish_NetGCoOp2026.docx that needs to be signed by the corresponding author marked on the paper, 
+  and use the pre-filled license-to-publish agreement that needs to be signed by the corresponding author marked on the paper, 
   making sure that your final submission includes Disclosure of Interest (and optionally, Acknowledgments) as described after Section 10, and send the pdf and source files, 
 as well as the license!
 
