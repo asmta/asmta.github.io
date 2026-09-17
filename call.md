@@ -1,7 +1,7 @@
 ---
 title: Call for papers
-navorder: 1
 layout: page
+navorder: 1
 permalink: /CFP/
 ---
 
