@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Organisation
+layout: page
 navorder: 2
 permalink: /organisation/
 ---
