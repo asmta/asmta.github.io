@@ -17,7 +17,7 @@ The website for ASMTA 2026 will be at [https://asmta.github.io](https://asmta.gi
 <br>
 
 <p align="center">
-  <img src="assets/img/LNCS-Logo.png" alt="LNCS logo" width="400">
+  <img src="./assets/img/LNCS-Logo.png" alt="LNCS logo" width="400">
 </p>
 
 <br>
@@ -28,7 +28,7 @@ The proceedings of ASMTA 2026 will be published in the Springer Lecture Notes in
 <br>
 
 <p align="center">
-  <img src="assets/img/PEVA.jpg" alt="PEVA logo" width="200">
+  <img src="./assets/img/PEVA.jpg" alt="PEVA logo" width="200">
 </p>
 
 <br>
