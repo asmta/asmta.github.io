@@ -1,7 +1,7 @@
 ---
 title: Camera ready instructions
-navorder: 3
 layout: page
+navorder: 3
 permalink: /camera_ready/
 ---
 
