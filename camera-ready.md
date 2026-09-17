@@ -1,5 +1,5 @@
 ---
-title: Instruction for camera ready preparation
+title: Camer ready instructions
 navorder: 3
 layout: page
 permalink: /cameraready/
