@@ -1,3 +1,9 @@
+---
+title: Instruction for camera ready preparation
+navorder: 3
+layout: page
+permalink: /cameraready/
+---
 
 To prepare the camera ready version of your accepted paper, please follow the Springer Nature instructions.
 Please pay special attention to Section "5 Additional Information Required from Authors" in their "Springer Nature Instructions for proceedings authors" 
