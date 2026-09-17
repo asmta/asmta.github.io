@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Venue
-navorder: 4
+navorder: 5
 permalink: /venue/
 ---
 
