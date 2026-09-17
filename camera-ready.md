@@ -2,7 +2,7 @@
 title: Camer ready instructions
 navorder: 3
 layout: page
-permalink: /cameraready/
+permalink: /camera_ready/
 ---
 
 To prepare the camera ready version of your accepted paper, please follow the Springer Nature instructions.
