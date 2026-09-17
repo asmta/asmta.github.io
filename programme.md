@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Programme
+layout: page
 navorder: 4
 permalink: /programme/
 ---
