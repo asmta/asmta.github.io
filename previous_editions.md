@@ -1,7 +1,7 @@
 ---
 title: Previous editions
-navorder: 6
 layout: page
+navorder: 6
 permalink: /previous_editions/
 ---
 
