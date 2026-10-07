@@ -5,9 +5,9 @@ navorder: 4
 permalink: /programme/
 ---
 
-Accepted papers 
+**Accepted papers** 
 
-Queueing theory: 
+*Queueing theory:* 
 A two-class M/M/1 queueing model with service rate of type-1 customers
 depending on the presence of type-2 customers
 Authors: Matthijs Limpens and Jacques Resing
@@ -27,7 +27,7 @@ Authors: Shu Li, Ana Bušić, and Jean-Michel Fourneau
 
 
 
-Applications: 
+*Applications:*
 
 Multi-formalism Modeling for Fast Design Space Exploration in ADAS Applications
 Author: Mattia Tibaldi and Marco Gribaudo
