@@ -8,6 +8,7 @@ permalink: /programme/
 **Accepted papers** 
 
 *Queueing theory:* 
+
 A two-class M/M/1 queueing model with service rate of type-1 customers
 depending on the presence of type-2 customers
 Authors: Matthijs Limpens and Jacques Resing
