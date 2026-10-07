@@ -10,33 +10,33 @@ Accepted papers
 Queueing theory: 
 A two-class M/M/1 queueing model with service rate of type-1 customers
 depending on the presence of type-2 customers
-Author: Jacques Resing
+Authors: Matthijs Limpens and Jacques Resing
 
 Equilibrium joining strategies in a service system with information
 about the number of consecutive joining decisions
-Author: Antonis Economou
+Authors: Antonis Economou, Odysseas Kanavetas, Athanasia Manou, and Sotiris Tzinakis
 
 Delay-Optimal FIFO Residual Service Curves Under General Arrival Curves
-Author: Lukas Wildberger
+Authors: Lukas Wildberger, Anja Hamscher, and Jens B. Schmitt
 
 Equilibrium Queueing Strategies in Random Environment
-Author: Konstantin Avrachenkov
+Authors: Konstantin Avrachenkov and Uri Yechiali
 
 Greedy failure and a stabilizing partial group discipline on a nested hypergraph
-Author: Shu Li
+Authors: Shu Li, Ana Bušić, and Jean-Michel Fourneau
 
 
 
 Applications: 
 
 Multi-formalism Modeling for Fast Design Space Exploration in ADAS Applications
-Author: Mattia Tibaldi
+Author: Mattia Tibaldi and Marco Gribaudo
 
 Performance evaluation of Rucio for medical data management in Italy
-Author: Marco Gribaudo
+Author: Marco Gribaudo, Elia Maggioni, Federico Lamperti, and Mauro Iacono
 
 Occupancy and Charging in Large EV Stations: A Mean-Field Decomposition
-Author: Koen De Turck
+Author: Koen De Turck, Tijl Doms, and Dieter Fiems
 
 
 
