@@ -9,33 +9,25 @@ permalink: /programme/
 
 *Queueing theory:* 
 
-- A two-class M/M/1 queueing model with service rate of type-1 customers depending on the presence of type-2 customers
-Authors: Matthijs Limpens and Jacques Resing
+- Matthijs Limpens and Jacques Resing, "A two-class M/M/1 queueing model with service rate of type-1 customers depending on the presence of type-2 customers".
 
-- Equilibrium joining strategies in a service system with information about the number of consecutive joining decisions
-Authors: Antonis Economou, Odysseas Kanavetas, Athanasia Manou, and Sotiris Tzinakis
+- Antonis Economou, Odysseas Kanavetas, Athanasia Manou, and Sotiris Tzinakis, "Equilibrium joining strategies in a service system with information about the number of consecutive joining decisions".
 
-- Delay-Optimal FIFO Residual Service Curves Under General Arrival Curves
-Authors: Lukas Wildberger, Anja Hamscher, and Jens B. Schmitt
+- Lukas Wildberger, Anja Hamscher, and Jens B. Schmitt, "Delay-Optimal FIFO Residual Service Curves Under General Arrival Curves".
 
-- Equilibrium Queueing Strategies in Random Environment
-Authors: Konstantin Avrachenkov and Uri Yechiali
+- Konstantin Avrachenkov and Uri Yechiali, "Equilibrium Queueing Strategies in Random Environment".
 
-- Greedy failure and a stabilizing partial group discipline on a nested hypergraph
-Authors: Shu Li, Ana Bušić, and Jean-Michel Fourneau
+- Shu Li, Ana Bušić, and Jean-Michel Fourneau, "Greedy failure and a stabilizing partial group discipline on a nested hypergraph".
 
 
 
 *Applications:*
 
-- Multi-formalism Modeling for Fast Design Space Exploration in ADAS Applications
-Author: Mattia Tibaldi and Marco Gribaudo
+- Mattia Tibaldi and Marco Gribaudo, "Multi-formalism Modeling for Fast Design Space Exploration in ADAS Applications".
 
-- Performance evaluation of Rucio for medical data management in Italy
-Author: Marco Gribaudo, Elia Maggioni, Federico Lamperti, and Mauro Iacono
+- Marco Gribaudo, Elia Maggioni, Federico Lamperti, and Mauro Iacono, "Performance evaluation of Rucio for medical data management in Italy".
 
-- Occupancy and Charging in Large EV Stations: A Mean-Field Decomposition
-Author: Koen De Turck, Tijl Doms, and Dieter Fiems
+- Koen De Turck, Tijl Doms, and Dieter Fiems, "Occupancy and Charging in Large EV Stations: A Mean-Field Decomposition".
 
 
 
