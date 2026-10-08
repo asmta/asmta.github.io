@@ -1,5 +1,5 @@
 ---
-title: Programme
+title: Program
 layout: page
 navorder: 4
 permalink: /programme/
