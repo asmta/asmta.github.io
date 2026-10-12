@@ -24,7 +24,7 @@ Applications*
 - Koen De Turck, Tijl Doms, Dieter Fiems: *Occupancy and Charging in
 Large EV Stations: A Mean-Field Decomposition* 
 
-12:00-13:00 **Keynote 2** - Giuliano Casale: title TBD
+12:00-13:00 **Keynote 2** - Giuliano Casale, "Stacks, Lists and Permanents: An Ordered Walk through New Product Forms"
 
 13:00-14:00 Lunch
 
