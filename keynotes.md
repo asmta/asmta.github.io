@@ -16,6 +16,9 @@ permalink: /keynotes/
 *Biography*: Sara Alouf is an Associate Researcher at Inria and vice-head of the Network Engineering and Operations group. Prior to joining Inria in March 2004, Sara held a post-doctoral position at Vrije Universiteit, Amsterdam, within the Optimization of Business Processes group. She received her Habilitation in 2017 from the Université Côte d'Azur, my Ph.D. and M.Sc. from the Université Nice Sophia Antipolis in 2002 and 1999, respectively. Sara holds an Electrical and Electronics Engineering Degree from the Lebanese University, obtained in 1998. While at Inria, she have been involved in the common labs between Inria and Alcatel-Lucent (now Nokia) and between Inria and Alstom Transport. Sara has co-authored three patents. She was in the board of directors of ACM Sigmetrics (July 2019 - June 2023) and serves/served in the technical program committees of ACM Sigmetrics and MobiHoc, Performance, IEEE Infocom and Globecom, ITC, Valuetools, and WIOPT. She was the general co-chair and treasurer of the ACM Sigmetrics/IFIP Performance 2016 conference and general co-chair of ITC 36. Sara is a member of the ACM and ACM Sigmetrics and serve as Associated Editor for IEEE/ACM Transactions on Networking and Elsevier Computer Communications. Her research interests include stochastic modeling and performance evaluation of communication networks.
 
 
+
+&nbsp;
+
 **Keynote 2**
 
 *Speaker*: Giuliano Casale (Imperial College London, UK)
