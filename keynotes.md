@@ -6,6 +6,7 @@ permalink: /keynotes/
 ---
 
 **Keynote 1**
+
 *Speaker*: Sara Alouf (INRIA Sophia Antipolis, France)
 
 *Title*: TBA
@@ -16,6 +17,7 @@ permalink: /keynotes/
 
 
 **Keynote 2**
+
 *Speaker*: Giuliano Casale (Imperial College London, UK)
 
 *Title*: Stacks, Lists and Permanents: An Ordered Walk through New Product Forms
