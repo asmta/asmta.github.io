@@ -12,7 +12,7 @@ permalink: /programme/
 
 10:00-10:30 Break
 
-10:30-12:00 **Session 1** - Industrial applications
+10:30-12:00 **Session 1** - Applications
 
 - Marco Gribaudo, Elia Maggioni, Federico Lamperti, Mauro Iacono:
 *Performance evaluation of Rucio for medical data management in Italy*
