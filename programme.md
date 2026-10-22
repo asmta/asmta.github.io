@@ -14,11 +14,11 @@ permalink: /programme/
 
 10:30-12:00 **Session 1** - Applications
 
-- Marco Gribaudo, Elia Maggioni, Federico Lamperti, Mauro Iacono:
-*Performance evaluation of Rucio for medical data management in Italy*
-
 - Koen De Turck, Tijl Doms, Dieter Fiems: *Occupancy and Charging in
 Large EV Stations: A Mean-Field Decomposition*
+
+- Marco Gribaudo, Elia Maggioni, Federico Lamperti, Mauro Iacono:
+*Performance evaluation of Rucio for medical data management in Italy*
 
 - Antonis Economou, Odysseas Kanavetas, Athanasia Manou, Sotiris
 Tzinakis: *Equilibrium joining strategies in a service system with
