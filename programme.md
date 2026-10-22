@@ -14,15 +14,16 @@ permalink: /programme/
 
 10:30-12:00 **Session 1** - Industrial applications
 
-- Mattia Tibaldi, Marco Gribaudo:
-*Multi-formalism Modeling for Fast Design Space Exploration in ADAS
-Applications*
-
 - Marco Gribaudo, Elia Maggioni, Federico Lamperti, Mauro Iacono:
 *Performance evaluation of Rucio for medical data management in Italy*
 
 - Koen De Turck, Tijl Doms, Dieter Fiems: *Occupancy and Charging in
-Large EV Stations: A Mean-Field Decomposition* 
+Large EV Stations: A Mean-Field Decomposition*
+
+- Antonis Economou, Odysseas Kanavetas, Athanasia Manou, Sotiris
+Tzinakis: *Equilibrium joining strategies in a service system with
+information about the number of consecutive joining decisions*
+
 
 12:00-13:00 **Keynote 2** - Giuliano Casale, "Stacks, Lists and Permanents: An Ordered Walk through New Product Forms"
 
@@ -34,10 +35,6 @@ Large EV Stations: A Mean-Field Decomposition*
 with service rate of type-1 customers depending on the presence of
 type-2 customers*
 
-- Antonis Economou, Odysseas Kanavetas, Athanasia Manou, Sotiris
-Tzinakis: *Equilibrium joining strategies in a service system with
-information about the number of consecutive joining decisions* 
-
 - Lukas Wildberger, Anja Hamscher, Jens Schmitt: *Delay-Optimal FIFO
 Residual Service Curves Under General Arrival Curves*
 
@@ -46,6 +43,10 @@ in Random Environment*
 
 - Shu Li, Ana  Bušić, Jean-Michel Fourneau: *Greedy failure and a
 stabilizing partial group discipline on a nested hypergraph*
+
+- Mattia Tibaldi, Marco Gribaudo:
+*Multi-formalism Modeling for Fast Design Space Exploration in ADAS
+Applications*
 
 
 
