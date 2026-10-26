@@ -38,7 +38,7 @@ type-2 customers*
 - Lukas Wildberger, Anja Hamscher, Jens Schmitt: *Delay-Optimal FIFO
 Residual Service Curves Under General Arrival Curves*
 
-- Konstantin Avrachenkov*, Uri Yechiali: *Equilibrium Queueing Strategies
+- Konstantin Avrachenkov, Uri Yechiali: *Equilibrium Queueing Strategies
 in Random Environment*
 
 - Shu Li, Ana  Bušić, Jean-Michel Fourneau: *Greedy failure and a
