@@ -41,9 +41,10 @@ permalink: /organisation/
 
 
 **Steering Committee**
-Dieter Fiems,	Ghent University, Belgium
-Marco Gribaudo,	Politecnico di Milano, Italy
-Andrea Marin,	University of Venice “Ca’ Foscari”, Italy
-Tuan Phun-Duc,	University of Tsukuba, Japan
-Miklós Telek,	Budapest University of Technology and Economics, Hungary
+- Dieter Fiems,	Ghent University, Belgium
+- Marco Gribaudo,	Politecnico di Milano, Italy
+- Andrea Marin,	University of Venice “Ca’ Foscari”, Italy
+- Tuan Phun-Duc,	University of Tsukuba, Japan
+- Miklós Telek,	Budapest University of Technology and Economics, Hungary
+ 
 
