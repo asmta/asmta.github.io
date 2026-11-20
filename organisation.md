@@ -5,13 +5,13 @@ navorder: 2
 permalink: /organisation/
 ---
 
-**TPC Chairs**
+**Program Chairs**
 
 - Illés Horvath, Budapest University of Technology and Economics, Hungary
 - Vincenzo Mancuso, University of Palermo, Italy & IMDEA Networks Institute, Madrid, Spain
 
 
-**Technical programme committee**
+**Technical Programme Committee**
 
 - Nail Akar, Bilkent University, Turkey
 - Elene Anton, Université de Pau et des Pays de l’Adour, France
