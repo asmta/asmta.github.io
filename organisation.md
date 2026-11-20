@@ -10,22 +10,21 @@ permalink: /organisation/
 - Illés Horvath, Budapest University of Technology and Economics, Hungary
 - Vincenzo Mancuso, University of Palermo, Italy & IMDEA Networks Institute, Madrid, Spain
 
-**Technical programme committee** *(accepted)*
+
+**Technical programme committee**
 
 - Nail Akar, Bilkent University, Turkey
 - Elene Anton, Université de Pau et des Pays de l’Adour, France
 - Konstantin Avrachenkov, INRIA, France
-- Antonio Bazco-Nogueras, IMDEA Networks Institute, Spain
 - Dieter Claeys, Ghent University, Belgium
-- Arnaud Devos, Ghent University, belgium
 - Ioannis Dimitriou, University of Ioannina, Greece
-- Antonis Economou, University of Athens, greece 
-- Andras Horvath, University of Turin, Italy
-- Marco Gribaudo, Politecnico di Milano, Italy
+- Antonis Economou, University of Athens, Greece
+- Marco Gribaudo, Politecnico di Milano, Italy 
 - Yezekael Hayel, LIA University of Avignon, France
-- Dániel Keliger, Budapest University of Technology and Economics, Hungary
-- Lasse Leskelä, Aalto University, Finland
+- Andras Horváth, University of Turin, Italy
+- Illés Horváth, Budapest University of Technology and Economics, Hungary
 - Martin Lopez Garcia, University of Leeds, UK
+- Vincenzo Mancuso, University of Palermo, Italy & IMDEA Networks Institute, Madrid, Spain
 - András Mészáros, Budapest University of Technology and Economics, Hungary
 - Jose Nino-Mora, Carlos III University of Madrid, Spain
 - Diletta Olliaro, KTH, Sweden
@@ -39,4 +38,12 @@ permalink: /organisation/
 - Matteo Sereno, University of Turin, Italy
 - Miklós Telek, Budapest University of Technology and Economics, Hungary
 - Joris Walraevens, Ghent University, Belgium
-- Jinting Wang, Central University of Finance and Economics, China
+
+
+**Steering Committee**
+Dieter Fiems,	Ghent University, Belgium
+Marco Gribaudo,	Politecnico di Milano, Italy
+Andrea Marin,	University of Venice “Ca’ Foscari”, Italy
+Tuan Phun-Duc,	University of Tsukuba, Japan
+Miklós Telek,	Budapest University of Technology and Economics, Hungary
+
